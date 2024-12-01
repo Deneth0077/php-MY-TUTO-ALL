@@ -1,0 +1,23 @@
+{
+  "name": "php MY-Tuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deneth0077/php MY-Tuto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deneth0077/php MY-Tuto/"
+  },
+  "homepage": "https://github.com/deneth0077/php MY-Tuto#readme",
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.18.3",
+    "prettier": "^2.6.0"
+  }
+}
